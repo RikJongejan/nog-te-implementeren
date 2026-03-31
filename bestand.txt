@@ -1,0 +1,3 @@
+Meneer_A Heeft goed gewerkt nr 1 $2.000
+Meneer_B Heeft extra goed gewerkt nr 2 $2.150
+Meneer_C Heeft niet goed gewerkt nr3 $1.300
